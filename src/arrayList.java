@@ -1,0 +1,2 @@
+public class arrayList<T> {
+}
